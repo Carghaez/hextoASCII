@@ -1,6 +1,6 @@
-# Sublime Text 2 ASCII<->Hex converter Plugin #
+# Sublime Text 2/3 ASCII<->Hex DEC->HEX converter Plugin #
 
-Sublime Text 2/3 plugin to convert ASCII->Hex, Hex->ASCII and DEC->HEX (Thanks By Carghaez)
+Sublime Text 2/3 plugin to convert ASCII<->Hex and DEC->HEX (Thanks By Carghaez)
 
 ## Usage ##
 
